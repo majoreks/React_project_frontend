@@ -1,0 +1,9 @@
+.cardxd {
+  margin: 1em;
+  user-select: none;
+}
+
+.cardClickable:hover {
+  cursor: pointer;
+}
+

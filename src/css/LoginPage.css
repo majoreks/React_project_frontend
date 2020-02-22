@@ -1,0 +1,30 @@
+input[type=text], input[type=password] {
+  width: 100%;
+  margin-top: 1em;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+
+.LoginButton:hover {
+  opacity: 0.8;
+}
+
+.container {
+  padding: 16px;
+}
+
+.label-input {
+  display: block;
+}
+
+.error {
+  color: red
+}  
+
+.btn {
+  margin-top: 1em;
+  width: 100%;
+}
