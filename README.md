@@ -1,3 +1,8 @@
+### This repository is a copy of [Walczi123/React_Project frontend branch repo](https://github.com/Walczi123/React_Project/tree/master/front-end-project)   
+Final product: [minibookly](https://minibookly.netlify.com/)
+
+<hr/>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
