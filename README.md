@@ -1,4 +1,4 @@
-### This repository is a copy of [Walczi123/React_Project frontend branch repo](https://github.com/Walczi123/React_Project/tree/master/front-end-project)   
+### This repository is a copy of [Walczi123/React_Project frontend branch repo](https://github.com/Walczi123/React_Project/tree/frontend)   
 Final product: [minibookly](https://minibookly.netlify.com/)  
 Credentials:  
 <i>admin  
