@@ -1,10 +1,17 @@
 ### This repository is a copy of [Walczi123/React_Project frontend branch repo](https://github.com/Walczi123/React_Project/tree/frontend)   
-Final product: [minibookly](https://minibookly.netlify.com/)  
+* [Project description](https://react.edu.pl/pw/2019/10/01/project/)  
+* Final product: [minibookly](https://minibookly.netlify.com/)  
 Credentials:  
 <i>admin  
-password</i>
+password</i>  
 
+The site in theory allows an admin of Bookly service to log in and search through the history of bookings. Endpoints which would allow the admin to Filter and Search (by given fields) were not implemented in the backend, hence they're inactive on the site. Same for endpoint which would allow the admin to fetch details of given booking.
 
+The 2 main screens are login screen:  
+<img src="https://i.imgur.com/ysPUQNu.png" alt="Login screen image"/>
+
+and bookings history page:  
+<img src="https://i.imgur.com/qdn7qnT.png" alt="Bookings history image"/>
 <hr/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
